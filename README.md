@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lhester
-- 👀 I’m interested in Mobile Application, Laravel php Framework, dont net core mvc,vb.net windows form, c#, Java, mysql, mssql, firebase and Computer Security
+- 👀 I’m interested in Mobile Application, Laravel php Framework, Dot Net core mvc,VB.net Windows form, c#, Java, mysql, mssql, firebase and Computer Security
 - 🌱 I’m currently learning React js, Vue js, Ajax 
 
 <!---
